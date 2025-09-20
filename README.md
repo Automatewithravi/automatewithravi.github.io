@@ -1,4 +1,3 @@
-# Automate With Ravi
 
 Welcome to **[automatewithravi.com](https://automatewithravi.com)** — my personal hub for sharing skills, projects, and insights in DevOps, cloud security, and automation.  
 

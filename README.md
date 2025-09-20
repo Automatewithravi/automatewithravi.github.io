@@ -1,8 +1,17 @@
+# Automate With Ravi
+
+Welcome to **[automatewithravi.com](https://automatewithravi.com)** — my personal hub for sharing skills, projects, and insights in DevOps, cloud security, and automation.  
+
 ## About
-Welcome to **[automatewithravi.com](https://automatewithravi.com)** — a personal hub where I share my skills, projects, and insights in DevOps, cloud security, and automation.  
+Here, you will find:  
 
-On this site, you will find:  
+- **[Portfolio Projects](https://automatewithravi.com/portfolio)**: Real-world examples of automation scripts, Azure deployments, CI/CD pipelines, and infrastructure improvements.  
+- **[CV / Resume](https://automatewithravi.com/cv)**: My professional experience, certifications (AZ-104, AZ-305, AZ-500), and expertise in cloud, automation, and security.  
+- **[Tech Blogs](https://automatewithravi.com/blog)**: Articles and tutorials on DevOps, automation, cloud security, VMware, and practical infrastructure solutions.  
 
-- **Portfolio Projects**: Real-world projects showcasing automation scripts, Azure deployments, CI/CD pipelines, and infrastructure improvements.  
-- **CV / Resume**: My professional background, certifications (AZ-104, AZ-305, AZ-500), and skills in cloud, automation, and security.  
-- **Tech Blogs**: Articles and tutorials on automation, DevOps, cloud security, VMware, and everyday infrastructure challenges.  
+
+
+## Connect
+- ✉️ [Email Me](mailto:ravindrakumar_aug2022@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravindrakumar-narayanan](https://www.linkedin.com/in/ravindrakumar-narayanan-08929a22))  
+- 💻 [GitHub](https://github.com/automatewithravi)

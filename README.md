@@ -12,5 +12,5 @@ Here, you will find:
 
 ## Connect
 - ✉️ [Email Me](mailto:ravindrakumar_aug2022@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ravindrakumar-narayanan](https://www.linkedin.com/in/ravindrakumar-narayanan-08929a22))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravindrakumar-narayanan-08929a22)  
 - 💻 [GitHub](https://github.com/automatewithravi)

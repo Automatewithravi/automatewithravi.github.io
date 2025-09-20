@@ -1,9 +1,5 @@
-# Automate With Ravi
-
-This is the source for **[automatewithravi.com](https://automatewithravi.com)** — my personal site for portfolio, CV, and blog.
-
 ## About
-I’m Ravi, a Senior Infrastructure Engineer on a **transition journey into Azure DevOps and Cloud Security**.  
+Welcome to **[automatewithravi.com](https://automatewithravi.com)** — a personal hub where I document my **transition from infrastructure engineering to Azure DevOps and Cloud Security**, showcase my **portfolio projects**, share my **CV**, and write **tech blogs** on automation, DevOps, and cloud security.  
 This site is where I share:
 - My portfolio projects
 - My CV and certifications

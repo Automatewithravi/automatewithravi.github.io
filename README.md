@@ -9,18 +9,4 @@ This site is where I share:
 - My CV and certifications
 - Blogs on automation, DevOps, cloud security, VMware, and day-to-day infrastructure automation
 
-## Tech Stack
-- Built with **Jekyll**
-- Hosted on **GitHub Pages**
-- Content written in **Markdown**
 
-## Structure
-- `index.md` → Homepage  
-- `about.md` → About Me  
-- `portfolio.md` → Portfolio  
-- `cv.md` → CV/Resume  
-- `contact.md` → Contact  
-- `_posts/` → Blog posts  
-
-## Live Site
-👉 [automatewithravi.com](https://automatewithravi.com)

@@ -24,7 +24,6 @@ Certified in **Azure Administration, Solutions Architecture, and Security**, wit
 - **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**  
 - **VMware Certified Professional – VCP 4, 5, 6**  
 - **VMware Cloud Management and Automation – VCP7-CMA**  
-- **MCSA (Windows 2003 Server)** | **MCTS (Windows 2008 Network Infrastructure)**  
-
+  
 ---
 

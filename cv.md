@@ -26,6 +26,5 @@ Certified in **Azure Administration, Solutions Architecture, and Security**, wit
 - **VMware Cloud Management and Automation – VCP7-CMA**  
 - **MCSA (Windows 2003 Server)** | **MCTS (Windows 2008 Network Infrastructure)**  
 
-
 ---
 
